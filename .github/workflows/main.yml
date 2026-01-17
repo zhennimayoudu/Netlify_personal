@@ -1,0 +1,2 @@
+- name: branch-deploy
+  uses: github/branch-deploy@v11.1.2
