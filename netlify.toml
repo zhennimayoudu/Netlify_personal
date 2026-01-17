@@ -1,0 +1,8 @@
+[build]
+  # Remove this line if present with an absolute path like "/opt/build"
+  # base = "/opt/build"
+
+  # If you need to explicitly set the root, use:
+  base = "."
+  command = "npm run build"
+  publish = "dist"
